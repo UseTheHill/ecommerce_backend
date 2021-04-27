@@ -1,5 +1,4 @@
 # ecommerce_backend
-# E-Commerce Server
 
 ## Links:
 
